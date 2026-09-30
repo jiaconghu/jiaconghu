@@ -1,5 +1,5 @@
 # 🏠 Homepage
-Welcome to my profile! For more information about my work, publications, and ongoing projects, please visit my personal homepage: [jiaconghu.com](http://jiaconghu.com).
+For more information about my work, publications, and ongoing projects, please visit my personal homepage: [jiaconghu.com](http://jiaconghu.com).
 
 # 📬 Contact Me
 Feel free to connect with me on social media or reach out via email for any collaboration inquiries.
